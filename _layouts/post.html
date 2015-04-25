@@ -12,4 +12,6 @@ layout: default
     {{ content }}
   </article>
 
+  <p class="post-meta">{% if page.categories %} • Categories: {{ page.categories | join: ', '  }}</a>{% endif %}{% if page.tags %} • Tags: {{ page.tags | join: ', '  }}</a>{% endif %}</p>
+
 </div>
