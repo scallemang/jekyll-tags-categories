@@ -1,6 +1,8 @@
 # jekyll-tags-categories
 A default Jekyll installation, except with tags and categories designed to work with GitHub pages.
 
+Much credit to [Minddust.com](http://www.minddust.com/post/tags-and-categories-on-github-pages/) for explaining how to set this up. I used this post&rsquo;s instructions in configuring my own site.
+
 ## How to Use
 
 1. All categories and tags must be configured in the appropriate YAML file in _data.
